@@ -14,142 +14,124 @@
 
 <br />
 
-## Sobre mí
+## `~/sobre-mi`
 
-Soy estudiante de **Desarrollo de Software**, enfocado principalmente en el desarrollo web y de aplicaciones. Me interesa crear soluciones con distintas tecnologías, tanto APIs y aplicaciones web como aplicaciones móviles.
+Soy estudiante de **Desarrollo de Software**, enfocado principalmente en el desarrollo web y de aplicaciones. Me interesa crear soluciones con distintas tecnologías, tanto APIs y aplicaciones web como aplicaciones móviles. Actualmente fortalezco mis conocimientos mediante proyectos académicos y personales.
 
-Actualmente fortalezco mis conocimientos mediante proyectos académicos y personales.
+```json
+{
+  "rol": "Estudiante de Desarrollo de Software",
+  "enfoque": ["Desarrollo web", "Aplicaciones móviles"],
+  "intereses": [
+    "Desarrollo de APIs",
+    "Bases de datos",
+    "Arquitectura y patrones de diseño",
+    "Análisis de datos y Business Intelligence"
+  ],
+  "estado": "Aprendiendo y construyendo proyectos"
+}
+```
 
-**Áreas de interés**
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-`Desarrollo web` `Aplicaciones móviles` `APIs` `Bases de datos` `Arquitectura y patrones de diseño` `Análisis de datos y Business Intelligence`
-
-<br />
-
-## Tecnologías y herramientas
+## `~/stack`
 
 <table>
   <tr>
-    <td width="22%"><b>Web</b></td>
+    <td width="22%"><code>web</code></td>
     <td><img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,typescript,html,css" alt="Tecnologías web" /></td>
   </tr>
   <tr>
-    <td><b>Mobile</b></td>
+    <td><code>mobile</code></td>
     <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Tecnologías móviles" /></td>
   </tr>
   <tr>
-    <td><b>Bases de datos</b></td>
+    <td><code>bases-de-datos</code></td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br />
       <code>SQL</code> <code>Entity Framework Core</code>
     </td>
   </tr>
   <tr>
-    <td><b>Datos</b></td>
+    <td><code>datos</code></td>
     <td>
       <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br />
       Explorando: <code>Pandas</code> <code>Matplotlib</code> <code>Power BI</code>
     </td>
   </tr>
   <tr>
-    <td><b>Herramientas</b></td>
+    <td><code>herramientas</code></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio,vercel" alt="Herramientas" /></td>
   </tr>
 </table>
 
-<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Proyectos destacados
+## `~/proyectos`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>API de gestión de tienda</h3>
+      <h3><code>01</code> API de gestión de tienda</h3>
       <p>API organizada para gestionar la información de una tienda mediante operaciones CRUD, con separación de responsabilidades y documentación en Swagger.</p>
       <p><code>C#</code> <code>ASP.NET Core</code> <code>Entity Framework Core</code> <code>MySQL</code> <code>Repository Pattern</code> <code>Unit of Work</code> <code>Swagger</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Desarrollo web con Next.js</h3>
+      <h3><code>02</code> Desarrollo web con Next.js</h3>
       <p>Proyecto web con interfaces basadas en componentes, enfoque en SEO y optimización, y despliegue en Vercel.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Vercel</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Aplicaciones móviles con Flutter</h3>
+      <h3><code>03</code> Aplicaciones móviles con Flutter</h3>
       <p>Aplicaciones con diseño de interfaces, navegación y conexión con servicios y APIs.</p>
       <p><code>Flutter</code> <code>Dart</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Proyectos de análisis de datos</h3>
+      <h3><code>04</code> Proyectos de análisis de datos</h3>
       <p>Proyectos académicos para explorar datos, aplicar transformaciones y crear visualizaciones.</p>
       <p><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></p>
     </td>
   </tr>
 </table>
 
-<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Actualmente aprendiendo
+## `~/aprendiendo`
 
-<div align="center">
+```yaml
+aprendiendo:
+  - APIs con .NET
+  - Desarrollo web con Next.js
+  - Desarrollo móvil con Flutter
+  - SQL y bases de datos
+  - Arquitectura y patrones de diseño
+  - Análisis de datos y Business Intelligence
+```
 
-[![APIs con .NET](https://img.shields.io/badge/APIs%20con-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Web%20con-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/M%C3%B3vil%20con-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-Bases%20de%20datos-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
-[![Arquitectura](https://img.shields.io/badge/Arquitectura-Patrones%20de%20dise%C3%B1o-1F6FEB?style=flat-square)](#)
-[![Datos](https://img.shields.io/badge/Datos-Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-</div>
+## `~/objetivo`
 
-<br />
+```csharp
+// Seguir creciendo como desarrollador de software, fortaleciendo mis
+// conocimientos en desarrollo web, aplicaciones móviles, APIs y bases
+// de datos, mientras continúo explorando nuevas áreas de la tecnología.
+```
 
-## Fuera del teclado
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-Cuando no estoy programando, lo más probable es que esté viendo anime, leyendo manga o buscando un opening nuevo para mi lista de reproducción. Algunas series que me marcaron:
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Título uno</b><br />
-      <sub>Una frase sobre por qué te gustó.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>Título dos</b><br />
-      <sub>Una frase sobre por qué te gustó.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>Título tres</b><br />
-      <sub>Una frase sobre por qué te gustó.</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-[![AniList](https://img.shields.io/badge/AniList-30363D?style=for-the-badge&logo=anilist&logoColor=02A9FF)](https://anilist.co/user/TU_USERNAME)
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-30363D?style=for-the-badge&logo=myanimelist&logoColor=2E51A2)](https://myanimelist.net/profile/TU_USERNAME)
-
-</div>
-
-<br />
-
-## Mi objetivo
-
-Seguir creciendo como **desarrollador de software**, fortaleciendo mis conocimientos en desarrollo web, aplicaciones móviles, APIs y bases de datos, mientras continúo explorando nuevas áreas de la tecnología.
-
-<br />
-
-## Contacto
+## `~/contacto`
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
 
-<br />
-
-<sub>Siempre aprendiendo, siempre construyendo.</sub>
-
 </div>
+
+```bash
+$ echo "Siempre aprendiendo, siempre construyendo."
+Siempre aprendiendo, siempre construyendo.
+```
