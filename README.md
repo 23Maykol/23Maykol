@@ -180,11 +180,3 @@ Seguir creciendo como **desarrollador de software**, fortaleciendo mis conocimie
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer&animation=fadeIn" alt="Pie" />
-
-<br />
-
-## Contacto
-
-Si tienes una idea, una oportunidad o simplemente quieres conversar sobre tecnologia, escribeme a **tu@correo.com** o por [LinkedIn](https://linkedin.com/in/tu-perfil).
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer&animation=fadeIn" alt="Pie" />
