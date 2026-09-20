@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Desarrollador+de+Software;Backend+%C2%B7+Frontend+%C2%B7+Cloud;C%C3%B3digo+limpio+y+mantenible;Abierto+a+nuevos+proyectos" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Desarrollador+de+Software;%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85;Backend+%C2%B7+Frontend+%C2%B7+Cloud;C%C3%B3digo+limpio+y+mantenible;Abierto+a+nuevos+proyectos" alt="Texto animado" />
 
 <br />
 
@@ -89,6 +89,45 @@ Desarrollador de software con enfoque en construir productos claros, mantenibles
 </picture>
 
 </div>
+
+<br />
+
+## Fuera del teclado
+
+Cuando no estoy programando, lo mas probable es que este viendo anime, leyendo manga o buscando un opening nuevo para la lista de reproduccion. Algunas series que me marcaron:
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Titulo Uno</b><br />
+      <sub>Una frase sobre por que te gusto.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Titulo Dos</b><br />
+      <sub>Una frase sobre por que te gusto.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Titulo Tres</b><br />
+      <sub>Una frase sobre por que te gusto.</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![AniList](https://img.shields.io/badge/AniList-30363D?style=for-the-badge&logo=anilist&logoColor=02A9FF)](https://anilist.co/user/TU_USUARIO)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-30363D?style=for-the-badge&logo=myanimelist&logoColor=2E51A2)](https://myanimelist.net/profile/TU_USUARIO)
+
+</div>
+
+<!--
+Opcional: si tienes una ilustracion o gif propio (o con permiso del artista),
+puedes mostrarlo asi, en pequeno y centrado:
+
+<div align="center">
+  <img src="ruta/o/url/de/tu-imagen.gif" width="220" alt="Ilustracion" />
+</div>
+-->
 
 <br />
 
