@@ -1,10 +1,8 @@
 <!-- Reemplaza TU_USERNAME y TU_LINKEDIN con tus datos reales -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Maykol%20Litari&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile&descSize=18&descAlignY=58&animation=fadeIn" alt="Encabezado" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Estudiante+de+Desarrollo+de+Software;Desarrollo+Web+%C2%B7+.NET+%C2%B7+Next.js;Aplicaciones+m%C3%B3viles+con+Flutter;%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85;Construyendo+proyectos+y+aprendiendo+cada+d%C3%ADa" alt="Texto animado" />
+<img src="./assets/banner.svg" alt="Maykol Litari, Software Developer" width="100%" />
 
 <br />
 
@@ -107,29 +105,6 @@ Actualmente fortalezco mis conocimientos mediante proyectos académicos y person
 
 <br />
 
-## Actividad en GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Lenguajes principales" />
-
-<br />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&hide_border=false" alt="Racha de contribuciones" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br />
-
 ## Fuera del teclado
 
 Cuando no estoy programando, lo más probable es que esté viendo anime, leyendo manga o buscando un opening nuevo para mi lista de reproducción. Algunas series que me marcaron:
@@ -178,5 +153,3 @@ Seguir creciendo como **desarrollador de software**, fortaleciendo mis conocimie
 <sub>Siempre aprendiendo, siempre construyendo.</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer&animation=fadeIn" alt="Pie" />
