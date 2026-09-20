@@ -6,9 +6,9 @@
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Vistas del perfil](https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=30363d&label=VISTAS)](https://github.com/TU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23Maykol)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykol-litari/)
+[![Vistas del perfil](https://komarev.com/ghpvc/?username=23Maykol&style=for-the-badge&color=30363d&label=VISTAS)](https://github.com/23Maykol)
 
 </div>
 
