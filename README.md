@@ -1,40 +1,63 @@
-<!-- Reemplaza TU_USUARIO, TU NOMBRE y los enlaces con tus datos reales -->
+<!-- Reemplaza TU_USERNAME y TU_LINKEDIN con tus datos reales -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=TU%20NOMBRE&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" alt="Encabezado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Maykol%20Litari&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile&descSize=18&descAlignY=58&animation=fadeIn" alt="Encabezado" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Desarrollador+de+Software;%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85;Backend+%C2%B7+Frontend+%C2%B7+Cloud;C%C3%B3digo+limpio+y+mantenible;Abierto+a+nuevos+proyectos" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Estudiante+de+Desarrollo+de+Software;Desarrollo+Web+%C2%B7+.NET+%C2%B7+Next.js;Aplicaciones+m%C3%B3viles+con+Flutter;%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85;Construyendo+proyectos+y+aprendiendo+cada+d%C3%ADa" alt="Texto animado" />
 
 <br />
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tusitio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@correo.com)
-[![Vistas del perfil](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=30363d&label=VISTAS)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![Vistas del perfil](https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=30363d&label=VISTAS)](https://github.com/TU_USERNAME)
 
 </div>
 
 <br />
 
-## Sobre mi
+## Sobre mí
 
-Desarrollador de software con enfoque en construir productos claros, mantenibles y bien probados. Me interesa el diseno de sistemas, la experiencia de desarrollo y las buenas practicas de ingenieria.
+Soy estudiante de **Desarrollo de Software**, enfocado principalmente en el desarrollo web y de aplicaciones. Me interesa crear soluciones con distintas tecnologías, tanto APIs y aplicaciones web como aplicaciones móviles.
 
-- Actualmente trabajando en **NOMBRE DEL PROYECTO O EMPRESA**
-- Aprendiendo **TECNOLOGIA 1** y **TECNOLOGIA 2**
-- Abierto a colaboraciones en proyectos de codigo abierto
-- Ubicacion: **Ciudad, Pais**
+Actualmente fortalezco mis conocimientos mediante proyectos académicos y personales.
+
+**Áreas de interés**
+
+`Desarrollo web` `Aplicaciones móviles` `APIs` `Bases de datos` `Arquitectura y patrones de diseño` `Análisis de datos y Business Intelligence`
 
 <br />
 
-## Stack tecnologico
+## Tecnologías y herramientas
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,postgres,mongodb,docker,git,linux&perline=12" alt="Tecnologias" />
-
-</div>
+<table>
+  <tr>
+    <td width="22%"><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,typescript,html,css" alt="Tecnologías web" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Tecnologías móviles" /></td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br />
+      <code>SQL</code> <code>Entity Framework Core</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Datos</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br />
+      Explorando: <code>Pandas</code> <code>Matplotlib</code> <code>Power BI</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio,vercel" alt="Herramientas" /></td>
+  </tr>
+</table>
 
 <br />
 
@@ -43,29 +66,44 @@ Desarrollador de software con enfoque en construir productos claros, mantenibles
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TU_USUARIO/proyecto-uno">Proyecto Uno</a></h3>
-      <p>Descripcion breve de lo que resuelve el proyecto y para quien esta pensado.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>PostgreSQL</code></p>
+      <h3>API de gestión de tienda</h3>
+      <p>API organizada para gestionar la información de una tienda mediante operaciones CRUD, con separación de responsabilidades y documentación en Swagger.</p>
+      <p><code>C#</code> <code>ASP.NET Core</code> <code>Entity Framework Core</code> <code>MySQL</code> <code>Repository Pattern</code> <code>Unit of Work</code> <code>Swagger</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TU_USUARIO/proyecto-dos">Proyecto Dos</a></h3>
-      <p>Descripcion breve de lo que resuelve el proyecto y para quien esta pensado.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Docker</code></p>
+      <h3>Desarrollo web con Next.js</h3>
+      <p>Proyecto web con interfaces basadas en componentes, enfoque en SEO y optimización, y despliegue en Vercel.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Vercel</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TU_USUARIO/proyecto-tres">Proyecto Tres</a></h3>
-      <p>Descripcion breve de lo que resuelve el proyecto y para quien esta pensado.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+      <h3>Aplicaciones móviles con Flutter</h3>
+      <p>Aplicaciones con diseño de interfaces, navegación y conexión con servicios y APIs.</p>
+      <p><code>Flutter</code> <code>Dart</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TU_USUARIO/proyecto-cuatro">Proyecto Cuatro</a></h3>
-      <p>Descripcion breve de lo que resuelve el proyecto y para quien esta pensado.</p>
-      <p><code>Next.js</code> <code>Tailwind CSS</code></p>
+      <h3>Proyectos de análisis de datos</h3>
+      <p>Proyectos académicos para explorar datos, aplicar transformaciones y crear visualizaciones.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></p>
     </td>
   </tr>
 </table>
+
+<br />
+
+## Actualmente aprendiendo
+
+<div align="center">
+
+[![APIs con .NET](https://img.shields.io/badge/APIs%20con-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Web%20con-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/M%C3%B3vil%20con-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-Bases%20de%20datos-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![Arquitectura](https://img.shields.io/badge/Arquitectura-Patrones%20de%20dise%C3%B1o-1F6FEB?style=flat-square)](#)
+[![Datos](https://img.shields.io/badge/Datos-Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
+
+</div>
 
 <br />
 
@@ -73,19 +111,19 @@ Desarrollador de software con enfoque en construir productos claros, mantenibles
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="Estadisticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Lenguajes principales" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Lenguajes principales" />
 
 <br />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&hide_border=false" alt="Racha de contribuciones" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&hide_border=false" alt="Racha de contribuciones" />
 
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-  <img alt="Animacion de contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -94,40 +132,54 @@ Desarrollador de software con enfoque en construir productos claros, mantenibles
 
 ## Fuera del teclado
 
-Cuando no estoy programando, lo mas probable es que este viendo anime, leyendo manga o buscando un opening nuevo para la lista de reproduccion. Algunas series que me marcaron:
+Cuando no estoy programando, lo más probable es que esté viendo anime, leyendo manga o buscando un opening nuevo para mi lista de reproducción. Algunas series que me marcaron:
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>Titulo Uno</b><br />
-      <sub>Una frase sobre por que te gusto.</sub>
+      <b>Título uno</b><br />
+      <sub>Una frase sobre por qué te gustó.</sub>
     </td>
     <td width="33%" valign="top">
-      <b>Titulo Dos</b><br />
-      <sub>Una frase sobre por que te gusto.</sub>
+      <b>Título dos</b><br />
+      <sub>Una frase sobre por qué te gustó.</sub>
     </td>
     <td width="33%" valign="top">
-      <b>Titulo Tres</b><br />
-      <sub>Una frase sobre por que te gusto.</sub>
+      <b>Título tres</b><br />
+      <sub>Una frase sobre por qué te gustó.</sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-[![AniList](https://img.shields.io/badge/AniList-30363D?style=for-the-badge&logo=anilist&logoColor=02A9FF)](https://anilist.co/user/TU_USUARIO)
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-30363D?style=for-the-badge&logo=myanimelist&logoColor=2E51A2)](https://myanimelist.net/profile/TU_USUARIO)
+[![AniList](https://img.shields.io/badge/AniList-30363D?style=for-the-badge&logo=anilist&logoColor=02A9FF)](https://anilist.co/user/TU_USERNAME)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-30363D?style=for-the-badge&logo=myanimelist&logoColor=2E51A2)](https://myanimelist.net/profile/TU_USERNAME)
 
 </div>
 
-<!--
-Opcional: si tienes una ilustracion o gif propio (o con permiso del artista),
-puedes mostrarlo asi, en pequeno y centrado:
+<br />
+
+## Mi objetivo
+
+Seguir creciendo como **desarrollador de software**, fortaleciendo mis conocimientos en desarrollo web, aplicaciones móviles, APIs y bases de datos, mientras continúo explorando nuevas áreas de la tecnología.
+
+<br />
+
+## Contacto
 
 <div align="center">
-  <img src="ruta/o/url/de/tu-imagen.gif" width="220" alt="Ilustracion" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+
+<br />
+
+<sub>Siempre aprendiendo, siempre construyendo.</sub>
+
 </div>
--->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer&animation=fadeIn" alt="Pie" />
 
 <br />
 
